@@ -1,2 +1,2 @@
-Agregando descripción al reposotorios
-probando protocolo ssh
+En este repositorio se agregaran los programas necesarios para los ejercicios de la clase de DinÃ¡mica de Maquinaria.
+
